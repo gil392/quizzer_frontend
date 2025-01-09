@@ -12,6 +12,6 @@ Quizer focuses on helping people learn from videos by making questions to check 
 
 ## Technologies
 Technologies used in frontend:
-    - Typescript
-    - React
-    - Vite
+- Typescript
+- React
+- Vite
