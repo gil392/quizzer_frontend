@@ -9,7 +9,6 @@ Quizer focuses on helping people learn from videos by making questions to check 
 > The project is build from two repositories:
 > - [Backend](https://github.com/gil392/Quizzer)
 > - [Frontend](https://github.com/gil392/quizzer_frontend)
-
 ## Technologies
 Technologies used in frontend:
 - Typescript
